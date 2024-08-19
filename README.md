@@ -1,5 +1,5 @@
 # R script for LampreyDB Manuscript
 
-<img src="https://github.com/YonghuiDong/ShinyCardinal/blob/main/inst/app/www/img/logo.png" align="right" alt="" width="300" />
+<img src="https://github.com/YonghuiDong/LampreyStat/blob/main/Fig/Fig1.jpg" align="right" alt="" width="700"/>
 
 
