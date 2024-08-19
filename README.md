@@ -18,5 +18,5 @@ The related data tables are store in **Data** Directory. Note that they are prep
 
 If you use our lampreyDB database or dataset, please consider citing the follow publication:
 
-M. Gou, X. Wang X. Duan, Y. Wang, Pang, and Y. Dong. (2024) LampreyDB: a spatial metabolomics dataset for lampreys
+- M. Gou, X. Wang X. Duan, Y. Wang, Pang, and Y. Dong. (2024) LampreyDB: a spatial metabolomics dataset for lampreys
 
