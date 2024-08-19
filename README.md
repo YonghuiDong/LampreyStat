@@ -1,3 +1,5 @@
 # R script for LampreyDB Manuscript
 
-!()[Fig/Fig1.tif]
+<img src="https://github.com/YonghuiDong/ShinyCardinal/blob/main/inst/app/www/img/logo.png" align="right" alt="" width="300" />
+
+
